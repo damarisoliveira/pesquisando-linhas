@@ -1,0 +1,11 @@
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.csproj.AssemblyReference.cache
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.csproj.SuggestedBindingRedirects.cache
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.Form1.resources
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.Properties.Resources.resources
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.csproj.GenerateResource.cache
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.csproj.CoreCompileInputs.cache
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\bin\Debug\isk.exe.config
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\bin\Debug\isk.exe
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\bin\Debug\isk.pdb
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.exe
+C:\Users\damar\source\repos\solucoes-sis\isk\isk\obj\Debug\isk.pdb
